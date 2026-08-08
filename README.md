@@ -18,6 +18,7 @@
 - 🐫 [camelCase → snake_case Converter](https://github.com/Hassnain-Rehman/python-projects/blob/main/camel.py)
 - 🥤 [Coin Machine Calculator](https://github.com/Hassnain-Rehman/python-projects/blob/main/coke.py)
 - 🧮 [Command-line Calculator](https://github.com/Hassnain-Rehman/python-projects/blob/main/calculater.py)
+- 🔐 [Password Generator](https://github.com/Hassnain-Rehman/python-projects/blob/main/password_generator.py)
 
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hassnain-rehman)

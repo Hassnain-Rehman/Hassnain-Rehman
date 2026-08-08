@@ -1,16 +1,25 @@
-## Hi there 👋
+### Hi 👋 I'm Hassnain Rehman
 
-<!--
-**Hassnain-Rehman/Hassnain-Rehman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Python Developer | Learning by building
 
-Here are some ideas to get you started:
+- 📍 Based in Pakistan
+- 🎓 B.S. in Computer Science
+- 📚 Currently learning: Python fundamentals via Harvard's CS50P
+- 🌱 Also studying Digital Literacy & Freelancing (DigiSkills.pk)
+- 💻 Building small projects as I go — from games to command-line tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tech Stack**
+
+`Python` `Git` `GitHub` `VS Code`
+
+**Projects**
+
+- 🎮 [Rock, Paper, Scissors](https://github.com/Hassnain-Rehman/python-projects/blob/main/rock.py)
+- 🐫 [camelCase → snake_case Converter](https://github.com/Hassnain-Rehman/python-projects/blob/main/camel.py)
+- 🥤 [Coin Machine Calculator](https://github.com/Hassnain-Rehman/python-projects/blob/main/coke.py)
+- 🧮 [Command-line Calculator](https://github.com/Hassnain-Rehman/python-projects/blob/main/calculater.py)
+
+
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hassnain-rehman)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hassnain-Rehman&show_icons=true&theme=dark)

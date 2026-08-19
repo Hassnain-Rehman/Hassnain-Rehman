@@ -19,6 +19,7 @@
 - 🥤 [Coin Machine Calculator](https://github.com/Hassnain-Rehman/python-projects/blob/main/coke.py)
 - 🧮 [Command-line Calculator](https://github.com/Hassnain-Rehman/python-projects/blob/main/calculater.py)
 - 🔐 [Password Generator](https://github.com/Hassnain-Rehman/python-projects/blob/main/pass_generator.py)
+- 🧮 [Math Quiz Game](https://github.com/Hassnain-Rehman/python-projects/blob/main/math_quiz_project.py)
 
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hassnain-rehman)

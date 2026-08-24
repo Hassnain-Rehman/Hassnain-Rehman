@@ -17,23 +17,7 @@
 
 **Tech Stack**
 
-🛠️ Tech Stack
-Python
-Zoom
-
-Download
- Git
-Zoom
-
-Download
- GitHub
-Zoom
-
-Download
- VS Code
-Zoom
-
-Download
+![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)
 
 **Projects**
 

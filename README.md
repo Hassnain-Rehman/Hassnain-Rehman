@@ -31,6 +31,9 @@
 - 🧮 [Math Quiz Game](https://github.com/Hassnain-Rehman/python-projects/blob/main/math_quiz_project.py)
 
 
+**Certificates**
+
+
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hassnain-rehman)
 
 ## 📊 GitHub Stats

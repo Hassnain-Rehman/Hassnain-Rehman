@@ -17,7 +17,23 @@
 
 **Tech Stack**
 
-`Python` `Git` `GitHub` `VS Code`
+🛠️ Tech Stack
+Python
+Zoom
+
+Download
+ Git
+Zoom
+
+Download
+ GitHub
+Zoom
+
+Download
+ VS Code
+Zoom
+
+Download
 
 **Projects**
 

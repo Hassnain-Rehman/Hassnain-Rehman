@@ -31,7 +31,7 @@
 
 ## 🏆 Certifications
 
-- [CS50P — Introduction to Programming with Python](YOUR_CERTIFICATE_LINK)
+- 🐍 [CS50P — Introduction to Programming with Python](https://cs50.harvard.edu/certificates/b1736388-583f-463c-b950-d0c1786eaa00)
 
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hassnain-rehman)

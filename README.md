@@ -31,7 +31,9 @@
 - 🧮 [Math Quiz Game](https://github.com/Hassnain-Rehman/python-projects/blob/main/math_quiz_project.py)
 
 
-**Certificates**
+## 🏆 Certifications
+
+- [CS50P — Introduction to Programming with Python](YOUR_CERTIFICATE_LINK)
 
 
 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/hassnain-rehman)

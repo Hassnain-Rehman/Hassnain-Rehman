@@ -1,6 +1,10 @@
 ### Hi 👋 I'm Hassnain Rehman
 
-> Python Developer | Learning by building
+**🐍 Python Developer | 🎓 Computer Science Student | 🤖 Aspiring AI Engineer**
+🏆 Completed Harvard's CS50P — Introduction to Programming with Python
+🌱 Currently learning Python for Data Science, Machine Learning & AI
+🚀 Building projects and expanding my GitHub portfolio
+
 
 - 📍 Based in Pakistan
 - 🎓 B.S. in Computer Science

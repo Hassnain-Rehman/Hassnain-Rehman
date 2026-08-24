@@ -9,11 +9,13 @@
 🚀 Building projects and expanding my GitHub portfolio
 
 
+
 - 📍 Based in Pakistan
 - 🎓 B.S. in Computer Science
 - 🏆 Completed Harvard's CS50P — Introduction to Programming with Python
 - 🌱 Also studying Digital Literacy & Freelancing (DigiSkills.pk)
-- 💻 Building small projects as I go — from games to command-line tools
+- 🌱 Learning Data Science, Machine Learning & AI
+- 💻 Building projects as I learn
 
 **Tech Stack**
 

@@ -17,7 +17,7 @@
 
 **Tech Stack**
 
-![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)
+![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,sql)
 
 **Projects**
 

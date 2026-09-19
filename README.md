@@ -21,6 +21,7 @@
 
 **Projects**
 
+- 🌦️ [Weather App](paste-the-copied-url-here)
 - 🎮 [Rock, Paper, Scissors](https://github.com/Hassnain-Rehman/python-projects/blob/main/rock.py)
 - 🐫 [camelCase → snake_case Converter](https://github.com/Hassnain-Rehman/python-projects/blob/main/camel.py)
 - 🥤 [Coin Machine Calculator](https://github.com/Hassnain-Rehman/python-projects/blob/main/coke.py)

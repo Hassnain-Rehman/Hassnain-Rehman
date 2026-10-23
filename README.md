@@ -15,7 +15,7 @@
 - 🌱 Learning Data Science, Machine Learning & AI
 - 💻 Building projects as I learn
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 ![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)
 

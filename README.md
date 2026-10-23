@@ -11,7 +11,7 @@
 - 📍 Based in Pakistan
 - 🎓 B.S. in Computer Science
 - 🏆 Completed Harvard's CS50P — Introduction to Programming with Python
-- 🌱 Also studying Digital Literacy & Freelancing (DigiSkills.pk)
+- 🏆 Completed Digital Literacy & Freelancing courses(DigiSkills.pk)
 - 🌱 Learning Data Science, Machine Learning & AI
 - 💻 Building projects as I learn
 

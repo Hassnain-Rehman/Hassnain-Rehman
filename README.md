@@ -19,7 +19,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode)
 
-**Projects**
+**Python Projects**
 
 [View my Python projects](https://github.com/Hassnain-Rehman/python-projects)
 

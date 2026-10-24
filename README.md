@@ -21,11 +21,7 @@
 
 **Projects**
 
-- 🌦️ [Weather App](https://github.com/Hassnain-Rehman/python-projects/blob/main/Weather_app.py)
-- 🎮 [Rock, Paper, Scissors](https://github.com/Hassnain-Rehman/python-projects/blob/main/rock.py)
-- 🧮 [Math Quiz Game](https://github.com/Hassnain-Rehman/python-projects/blob/main/math_quiz_project.py)
-- 🧮 [Command-line Calculator](https://github.com/Hassnain-Rehman/python-projects/blob/main/calculater.py)
-- 🔐 [Password Generator](https://github.com/Hassnain-Rehman/python-projects/blob/main/pass_generator.py)
+[View my Python projects](https://github.com/Hassnain-Rehman/python-projects)
 
 
 
